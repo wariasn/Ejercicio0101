@@ -13,4 +13,6 @@ public class Jugador {
     public String nacionalidad;
     public int numCamiseta;
     public String posicion;
+    
 }
+//holamundo
