@@ -13,4 +13,5 @@ public class Casa {
     public String color;
     public int numDormitorio;
     public String techo;
+    public String tamaño;
 }
