@@ -15,4 +15,3 @@ public class Jugador {
     public String posicion;
     
 }
-//holamundo
